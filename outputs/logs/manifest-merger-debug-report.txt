@@ -1,0 +1,416 @@
+-- Merging decision tree log ---
+meta-data#com.google.android.geo.API_KEY
+INJECTED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml:37:9-39:47
+	android:value
+		INJECTED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml
+		ADDED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml:39:13-44
+	android:name
+		ADDED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml:38:13-58
+manifest
+ADDED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml:2:1-65:12
+INJECTED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml:2:1-65:12
+INJECTED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml:2:1-65:12
+INJECTED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml:2:1-65:12
+MERGED from [androidx.databinding:viewbinding:7.1.1] /home/nato/.gradle/caches/transforms-3/ae6834c8ac7ed618868b4f971ad9d5ee/transformed/viewbinding-7.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-ui:2.4.1] /home/nato/.gradle/caches/transforms-3/a22d171aae515b3e6c9cb4ebe8855bc0/transformed/navigation-ui-2.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.material:material:1.5.0] /home/nato/.gradle/caches/transforms-3/6b1551fc7e84f44babff69c38bfda24d/transformed/material-1.5.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /home/nato/.gradle/caches/transforms-3/a586d80e67ac8cbb53870bfb799eb811/transformed/constraintlayout-2.1.3/AndroidManifest.xml:2:1-11:12
+MERGED from [androidx.appcompat:appcompat:1.4.1] /home/nato/.gradle/caches/transforms-3/f324e1adefacacfb58867167829775f5/transformed/appcompat-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-fragment:2.4.1] /home/nato/.gradle/caches/transforms-3/27bdcadf42d42305c83ad8f72c52917e/transformed/navigation-fragment-2.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] /home/nato/.gradle/caches/transforms-3/b6a7dc8e5b0e4d0eb76b11827beb6de3/transformed/play-services-maps-18.0.2/AndroidManifest.xml:17:1-44:12
+MERGED from [com.google.android.gms:play-services-location:19.0.1] /home/nato/.gradle/caches/transforms-3/1a7160ccd5271e113ccbda3657646c88/transformed/play-services-location-19.0.1/AndroidManifest.xml:2:1-9:12
+MERGED from [com.android.volley:volley:1.2.1] /home/nato/.gradle/caches/transforms-3/e1b26d5a4e81e16c40ce5fc86a09dcf4/transformed/volley-1.2.1/AndroidManifest.xml:2:1-7:12
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/nato/.gradle/caches/transforms-3/8ce0df73a59e558f575414d609d36b92/transformed/viewpager2-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.fragment:fragment-ktx:1.4.1] /home/nato/.gradle/caches/transforms-3/34b4e49d398d4dacdede51f6a267f2c6/transformed/fragment-ktx-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /home/nato/.gradle/caches/transforms-3/7a0b649d5a4053476f37b10320633ffe/transformed/play-services-base-18.0.1/AndroidManifest.xml:16:1-24:12
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/nato/.gradle/caches/transforms-3/bd1392e111a89f6d265b3fecd5d65a25/transformed/play-services-places-placereport-17.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /home/nato/.gradle/caches/transforms-3/750b143fec3a4c9c4120ee33db11b43c/transformed/play-services-tasks-18.0.1/AndroidManifest.xml:2:1-6:12
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /home/nato/.gradle/caches/transforms-3/3c67d04d5a50d53f72139c4d78194ee2/transformed/play-services-basement-18.0.0/AndroidManifest.xml:16:1-26:12
+MERGED from [androidx.fragment:fragment:1.4.1] /home/nato/.gradle/caches/transforms-3/843cb6040c2857dc75e9ab82e9f14dc4/transformed/fragment-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.navigation:navigation-runtime:2.4.1] /home/nato/.gradle/caches/transforms-3/95a128cb442e6556c838c97a4d6b0686/transformed/navigation-runtime-2.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity-ktx:1.2.3] /home/nato/.gradle/caches/transforms-3/0e14d1f35751aea1b73bfa31d36c15b5/transformed/activity-ktx-1.2.3/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.activity:activity:1.2.4] /home/nato/.gradle/caches/transforms-3/b38068b7019bea5cee41f2c664c3487b/transformed/activity-1.2.4/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /home/nato/.gradle/caches/transforms-3/c26d442db09d0d08f0a5238a31b14aaa/transformed/appcompat-resources-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /home/nato/.gradle/caches/transforms-3/f4eb0461f97686bee9c51896bf0ef074/transformed/emoji2-views-helper-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/nato/.gradle/caches/transforms-3/9cf2aa9a12f60887ce314a502b4c97d6/transformed/emoji2-1.0.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/nato/.gradle/caches/transforms-3/6d8d3f4c3fc45e4e213069df0a465897/transformed/drawerlayout-1.1.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/nato/.gradle/caches/transforms-3/f8b08c5921bc817d4f76a796e2580acf/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/nato/.gradle/caches/transforms-3/a0a92f0d5b3d431fc6c0b251d6804705/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/nato/.gradle/caches/transforms-3/819436423a2822097c55a5ac38231da2/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/nato/.gradle/caches/transforms-3/6a28cd330caff2e53e1e642b857fa805/transformed/vectordrawable-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /home/nato/.gradle/caches/transforms-3/04d877165c32c5c19e8fd70e916bd0ca/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/nato/.gradle/caches/transforms-3/fa53f186f02498d1359cc0706b9c9ca7/transformed/recyclerview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/nato/.gradle/caches/transforms-3/22a96163e48a9af14aeecda496ee28cf/transformed/viewpager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.customview:customview:1.1.0] /home/nato/.gradle/caches/transforms-3/575010955cd06a2118a242e53bb9a703/transformed/customview-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/nato/.gradle/caches/transforms-3/3da911e04a328fe13048bd5e2f69e7f7/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.navigation:navigation-common:2.4.1] /home/nato/.gradle/caches/transforms-3/2b2153114313d91df6388083d57d2098/transformed/navigation-common-2.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.core:core-ktx:1.2.0] /home/nato/.gradle/caches/transforms-3/59b9e602b2931bd110bc787fd6893ee0/transformed/core-ktx-1.2.0/AndroidManifest.xml:2:1-9:12
+MERGED from [androidx.transition:transition:1.4.1] /home/nato/.gradle/caches/transforms-3/cc28265336394abe1eed16515dc99c66/transformed/transition-1.4.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.window:window:1.0.0] /home/nato/.gradle/caches/transforms-3/38c88e48168843fdd3cfd637e646333c/transformed/window-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.loader:loader:1.0.0] /home/nato/.gradle/caches/transforms-3/6ef1b7ae5d7044c182a5a09a002b1c8f/transformed/loader-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.core:core:1.7.0] /home/nato/.gradle/caches/transforms-3/19993721b14e547f735b9fa1d0b1eaa2/transformed/core-1.7.0/AndroidManifest.xml:17:1-26:12
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/nato/.gradle/caches/transforms-3/479bfc522e1288c72f980d0199956bed/transformed/cursoradapter-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/nato/.gradle/caches/transforms-3/d0c36b56ee045d975d62935e55b6ab78/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /home/nato/.gradle/caches/transforms-3/5b7e13183d8994a3cd4e680943b09cb5/transformed/savedstate-ktx-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/nato/.gradle/caches/transforms-3/ff5bb29851bee9e462bc577cda0460c7/transformed/savedstate-1.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /home/nato/.gradle/caches/transforms-3/455e4e6f6c2570627624e3b81f750cd8/transformed/lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/nato/.gradle/caches/transforms-3/a871b9e8c411ce33d64773efd6088966/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.cardview:cardview:1.0.0] /home/nato/.gradle/caches/transforms-3/0e4b3ed69ba1d5ef69295186a3ec6b84/transformed/cardview-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/nato/.gradle/caches/transforms-3/660fb327dde20171876adbf1f31eb174/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:17:1-27:12
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/nato/.gradle/caches/transforms-3/ab4adf534828c88ac92d3ae3d977accc/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:17:1-37:12
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/nato/.gradle/caches/transforms-3/a8b99a316ef34d8edbf1d1f4be2f1ad8/transformed/startup-runtime-1.0.0/AndroidManifest.xml:17:1-33:12
+MERGED from [androidx.tracing:tracing:1.0.0] /home/nato/.gradle/caches/transforms-3/4ffc9a8ad02c91f73376e476591128f2/transformed/tracing-1.0.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /home/nato/.gradle/caches/transforms-3/e8a652fb40d0f4c51a505c5b44cbbdc8/transformed/lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/nato/.gradle/caches/transforms-3/a464403484bdac61ef3cf53dec336102/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/nato/.gradle/caches/transforms-3/fe7a914480ce42aea2fa390501691159/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /home/nato/.gradle/caches/transforms-3/db31fbf950ebf197287052b75bdbdcea/transformed/lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /home/nato/.gradle/caches/transforms-3/6263b7f6c46bc9215157cb5b58cc5c0a/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/nato/.gradle/caches/transforms-3/e0ceb94277256599d652d7b596f3a17a/transformed/core-runtime-2.1.0/AndroidManifest.xml:17:1-24:12
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/nato/.gradle/caches/transforms-3/63a69ce68fa557e382b8a43f04a2feb0/transformed/interpolator-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/nato/.gradle/caches/transforms-3/595962d6a0a0709ee60c9d883226ca12/transformed/documentfile-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/nato/.gradle/caches/transforms-3/b647bbc2c3b0e3c8c570d50953c65e7e/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.print:print:1.0.0] /home/nato/.gradle/caches/transforms-3/a5a7311960bf5c1bff5fb80410424df2/transformed/print-1.0.0/AndroidManifest.xml:17:1-22:12
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/nato/.gradle/caches/transforms-3/5935097190010156f23c456f5b50117c/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:17:1-24:12
+INJECTED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml:2:1-65:12
+INJECTED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml:2:1-65:12
+INJECTED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml:2:1-65:12
+	package
+		ADDED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml:3:5-38
+		INJECTED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml
+		ADDED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml:2:1-65:12
+		INJECTED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml
+	android:versionCode
+		INJECTED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml
+		ADDED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml:2:1-65:12
+		INJECTED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml:2:11-69
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml:5:5-81
+	android:name
+		ADDED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml:6:5-79
+	android:name
+		ADDED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml:6:22-76
+uses-permission#android.permission.BLUETOOTH_ADMIN
+ADDED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml:7:5-74
+	android:name
+		ADDED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml:7:22-71
+uses-permission#android.permission.BLUETOOTH
+ADDED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml:8:5-68
+	android:name
+		ADDED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml:8:22-65
+uses-permission#android.permission.BLUETOOTH_CONNECT
+ADDED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml:9:5-76
+	android:name
+		ADDED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml:9:22-73
+uses-permission#android.permission.INTERNET
+ADDED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml:10:5-66
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] /home/nato/.gradle/caches/transforms-3/b6a7dc8e5b0e4d0eb76b11827beb6de3/transformed/play-services-maps-18.0.2/AndroidManifest.xml:24:5-67
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] /home/nato/.gradle/caches/transforms-3/b6a7dc8e5b0e4d0eb76b11827beb6de3/transformed/play-services-maps-18.0.2/AndroidManifest.xml:24:5-67
+	android:name
+		ADDED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml:10:22-64
+uses-permission#android.permission.BLUETOOTH_SCAN
+ADDED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml:12:5-73
+	android:name
+		ADDED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml:12:22-70
+application
+ADDED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml:14:5-63:19
+MERGED from [com.google.android.material:material:1.5.0] /home/nato/.gradle/caches/transforms-3/6b1551fc7e84f44babff69c38bfda24d/transformed/material-1.5.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.material:material:1.5.0] /home/nato/.gradle/caches/transforms-3/6b1551fc7e84f44babff69c38bfda24d/transformed/material-1.5.0/AndroidManifest.xml:22:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /home/nato/.gradle/caches/transforms-3/a586d80e67ac8cbb53870bfb799eb811/transformed/constraintlayout-2.1.3/AndroidManifest.xml:9:5-20
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /home/nato/.gradle/caches/transforms-3/a586d80e67ac8cbb53870bfb799eb811/transformed/constraintlayout-2.1.3/AndroidManifest.xml:9:5-20
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] /home/nato/.gradle/caches/transforms-3/b6a7dc8e5b0e4d0eb76b11827beb6de3/transformed/play-services-maps-18.0.2/AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] /home/nato/.gradle/caches/transforms-3/b6a7dc8e5b0e4d0eb76b11827beb6de3/transformed/play-services-maps-18.0.2/AndroidManifest.xml:36:5-42:19
+MERGED from [com.google.android.gms:play-services-location:19.0.1] /home/nato/.gradle/caches/transforms-3/1a7160ccd5271e113ccbda3657646c88/transformed/play-services-location-19.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-location:19.0.1] /home/nato/.gradle/caches/transforms-3/1a7160ccd5271e113ccbda3657646c88/transformed/play-services-location-19.0.1/AndroidManifest.xml:7:5-20
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /home/nato/.gradle/caches/transforms-3/7a0b649d5a4053476f37b10320633ffe/transformed/play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /home/nato/.gradle/caches/transforms-3/7a0b649d5a4053476f37b10320633ffe/transformed/play-services-base-18.0.1/AndroidManifest.xml:19:5-23:19
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/nato/.gradle/caches/transforms-3/bd1392e111a89f6d265b3fecd5d65a25/transformed/play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/nato/.gradle/caches/transforms-3/bd1392e111a89f6d265b3fecd5d65a25/transformed/play-services-places-placereport-17.0.0/AndroidManifest.xml:22:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /home/nato/.gradle/caches/transforms-3/750b143fec3a4c9c4120ee33db11b43c/transformed/play-services-tasks-18.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /home/nato/.gradle/caches/transforms-3/750b143fec3a4c9c4120ee33db11b43c/transformed/play-services-tasks-18.0.1/AndroidManifest.xml:5:5-20
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /home/nato/.gradle/caches/transforms-3/3c67d04d5a50d53f72139c4d78194ee2/transformed/play-services-basement-18.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /home/nato/.gradle/caches/transforms-3/3c67d04d5a50d53f72139c4d78194ee2/transformed/play-services-basement-18.0.0/AndroidManifest.xml:20:5-24:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/nato/.gradle/caches/transforms-3/9cf2aa9a12f60887ce314a502b4c97d6/transformed/emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/nato/.gradle/caches/transforms-3/9cf2aa9a12f60887ce314a502b4c97d6/transformed/emoji2-1.0.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.window:window:1.0.0] /home/nato/.gradle/caches/transforms-3/38c88e48168843fdd3cfd637e646333c/transformed/window-1.0.0/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.window:window:1.0.0] /home/nato/.gradle/caches/transforms-3/38c88e48168843fdd3cfd637e646333c/transformed/window-1.0.0/AndroidManifest.xml:24:5-31:19
+MERGED from [androidx.core:core:1.7.0] /home/nato/.gradle/caches/transforms-3/19993721b14e547f735b9fa1d0b1eaa2/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.core:core:1.7.0] /home/nato/.gradle/caches/transforms-3/19993721b14e547f735b9fa1d0b1eaa2/transformed/core-1.7.0/AndroidManifest.xml:24:5-89
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/nato/.gradle/caches/transforms-3/660fb327dde20171876adbf1f31eb174/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/nato/.gradle/caches/transforms-3/660fb327dde20171876adbf1f31eb174/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:24:5-25:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/nato/.gradle/caches/transforms-3/ab4adf534828c88ac92d3ae3d977accc/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/nato/.gradle/caches/transforms-3/ab4adf534828c88ac92d3ae3d977accc/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:25:5-35:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/nato/.gradle/caches/transforms-3/a8b99a316ef34d8edbf1d1f4be2f1ad8/transformed/startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/nato/.gradle/caches/transforms-3/a8b99a316ef34d8edbf1d1f4be2f1ad8/transformed/startup-runtime-1.0.0/AndroidManifest.xml:25:5-31:19
+	android:appComponentFactory
+		ADDED from [androidx.core:core:1.7.0] /home/nato/.gradle/caches/transforms-3/19993721b14e547f735b9fa1d0b1eaa2/transformed/core-1.7.0/AndroidManifest.xml:24:18-86
+	android:supportsRtl
+		ADDED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml:20:9-35
+	android:label
+		ADDED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml:18:9-41
+	android:roundIcon
+		ADDED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml:19:9-54
+	android:icon
+		ADDED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml:17:9-43
+	android:allowBackup
+		ADDED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml:16:9-35
+	android:theme
+		ADDED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml:21:9-49
+	android:name
+		ADDED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml:15:9-38
+activity#com.example.gpstracking.addLocations
+ADDED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml:23:9-25:40
+	android:exported
+		ADDED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml:25:13-37
+	android:name
+		ADDED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml:24:13-41
+meta-data#com.google.android.gms.version
+ADDED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml:40:9-42:69
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /home/nato/.gradle/caches/transforms-3/3c67d04d5a50d53f72139c4d78194ee2/transformed/play-services-basement-18.0.0/AndroidManifest.xml:21:9-23:69
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /home/nato/.gradle/caches/transforms-3/3c67d04d5a50d53f72139c4d78194ee2/transformed/play-services-basement-18.0.0/AndroidManifest.xml:21:9-23:69
+	android:value
+		ADDED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml:42:13-66
+	android:name
+		ADDED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml:41:13-58
+activity#com.example.gpstracking.MapsActivity
+ADDED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml:44:9-47:59
+	android:label
+		ADDED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml:47:13-56
+	android:exported
+		ADDED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml:46:13-37
+	android:name
+		ADDED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml:45:13-41
+activity#com.example.gpstracking.ShowSavedLocationList
+ADDED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml:48:9-50:40
+	android:exported
+		ADDED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml:50:13-37
+	android:name
+		ADDED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml:49:13-50
+activity#com.example.gpstracking.MainActivity
+ADDED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml:52:9-62:20
+	android:label
+		ADDED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml:55:13-39
+	android:exported
+		ADDED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml:54:13-36
+	android:theme
+		ADDED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml:56:13-65
+	android:name
+		ADDED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml:53:13-41
+intent-filter#action:name:android.intent.action.MAIN+category:name:android.intent.category.LAUNCHER
+ADDED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml:57:13-61:29
+action#android.intent.action.MAIN
+ADDED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml:58:17-69
+	android:name
+		ADDED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml:58:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml:60:17-77
+	android:name
+		ADDED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml:60:27-74
+uses-sdk
+INJECTED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+INJECTED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml
+INJECTED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml
+MERGED from [androidx.databinding:viewbinding:7.1.1] /home/nato/.gradle/caches/transforms-3/ae6834c8ac7ed618868b4f971ad9d5ee/transformed/viewbinding-7.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.databinding:viewbinding:7.1.1] /home/nato/.gradle/caches/transforms-3/ae6834c8ac7ed618868b4f971ad9d5ee/transformed/viewbinding-7.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.4.1] /home/nato/.gradle/caches/transforms-3/a22d171aae515b3e6c9cb4ebe8855bc0/transformed/navigation-ui-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-ui:2.4.1] /home/nato/.gradle/caches/transforms-3/a22d171aae515b3e6c9cb4ebe8855bc0/transformed/navigation-ui-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.material:material:1.5.0] /home/nato/.gradle/caches/transforms-3/6b1551fc7e84f44babff69c38bfda24d/transformed/material-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.material:material:1.5.0] /home/nato/.gradle/caches/transforms-3/6b1551fc7e84f44babff69c38bfda24d/transformed/material-1.5.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /home/nato/.gradle/caches/transforms-3/a586d80e67ac8cbb53870bfb799eb811/transformed/constraintlayout-2.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.constraintlayout:constraintlayout:2.1.3] /home/nato/.gradle/caches/transforms-3/a586d80e67ac8cbb53870bfb799eb811/transformed/constraintlayout-2.1.3/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /home/nato/.gradle/caches/transforms-3/f324e1adefacacfb58867167829775f5/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat:1.4.1] /home/nato/.gradle/caches/transforms-3/f324e1adefacacfb58867167829775f5/transformed/appcompat-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.4.1] /home/nato/.gradle/caches/transforms-3/27bdcadf42d42305c83ad8f72c52917e/transformed/navigation-fragment-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-fragment:2.4.1] /home/nato/.gradle/caches/transforms-3/27bdcadf42d42305c83ad8f72c52917e/transformed/navigation-fragment-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] /home/nato/.gradle/caches/transforms-3/b6a7dc8e5b0e4d0eb76b11827beb6de3/transformed/play-services-maps-18.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-maps:18.0.2] /home/nato/.gradle/caches/transforms-3/b6a7dc8e5b0e4d0eb76b11827beb6de3/transformed/play-services-maps-18.0.2/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-location:19.0.1] /home/nato/.gradle/caches/transforms-3/1a7160ccd5271e113ccbda3657646c88/transformed/play-services-location-19.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.google.android.gms:play-services-location:19.0.1] /home/nato/.gradle/caches/transforms-3/1a7160ccd5271e113ccbda3657646c88/transformed/play-services-location-19.0.1/AndroidManifest.xml:5:5-44
+MERGED from [com.android.volley:volley:1.2.1] /home/nato/.gradle/caches/transforms-3/e1b26d5a4e81e16c40ce5fc86a09dcf4/transformed/volley-1.2.1/AndroidManifest.xml:5:5-43
+MERGED from [com.android.volley:volley:1.2.1] /home/nato/.gradle/caches/transforms-3/e1b26d5a4e81e16c40ce5fc86a09dcf4/transformed/volley-1.2.1/AndroidManifest.xml:5:5-43
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/nato/.gradle/caches/transforms-3/8ce0df73a59e558f575414d609d36b92/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager2:viewpager2:1.0.0] /home/nato/.gradle/caches/transforms-3/8ce0df73a59e558f575414d609d36b92/transformed/viewpager2-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.4.1] /home/nato/.gradle/caches/transforms-3/34b4e49d398d4dacdede51f6a267f2c6/transformed/fragment-ktx-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment-ktx:1.4.1] /home/nato/.gradle/caches/transforms-3/34b4e49d398d4dacdede51f6a267f2c6/transformed/fragment-ktx-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /home/nato/.gradle/caches/transforms-3/7a0b649d5a4053476f37b10320633ffe/transformed/play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-base:18.0.1] /home/nato/.gradle/caches/transforms-3/7a0b649d5a4053476f37b10320633ffe/transformed/play-services-base-18.0.1/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/nato/.gradle/caches/transforms-3/bd1392e111a89f6d265b3fecd5d65a25/transformed/play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-places-placereport:17.0.0] /home/nato/.gradle/caches/transforms-3/bd1392e111a89f6d265b3fecd5d65a25/transformed/play-services-places-placereport-17.0.0/AndroidManifest.xml:20:5-44
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /home/nato/.gradle/caches/transforms-3/750b143fec3a4c9c4120ee33db11b43c/transformed/play-services-tasks-18.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-tasks:18.0.1] /home/nato/.gradle/caches/transforms-3/750b143fec3a4c9c4120ee33db11b43c/transformed/play-services-tasks-18.0.1/AndroidManifest.xml:4:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /home/nato/.gradle/caches/transforms-3/3c67d04d5a50d53f72139c4d78194ee2/transformed/play-services-basement-18.0.0/AndroidManifest.xml:18:5-43
+MERGED from [com.google.android.gms:play-services-basement:18.0.0] /home/nato/.gradle/caches/transforms-3/3c67d04d5a50d53f72139c4d78194ee2/transformed/play-services-basement-18.0.0/AndroidManifest.xml:18:5-43
+MERGED from [androidx.fragment:fragment:1.4.1] /home/nato/.gradle/caches/transforms-3/843cb6040c2857dc75e9ab82e9f14dc4/transformed/fragment-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.fragment:fragment:1.4.1] /home/nato/.gradle/caches/transforms-3/843cb6040c2857dc75e9ab82e9f14dc4/transformed/fragment-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.4.1] /home/nato/.gradle/caches/transforms-3/95a128cb442e6556c838c97a4d6b0686/transformed/navigation-runtime-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-runtime:2.4.1] /home/nato/.gradle/caches/transforms-3/95a128cb442e6556c838c97a4d6b0686/transformed/navigation-runtime-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.3] /home/nato/.gradle/caches/transforms-3/0e14d1f35751aea1b73bfa31d36c15b5/transformed/activity-ktx-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity-ktx:1.2.3] /home/nato/.gradle/caches/transforms-3/0e14d1f35751aea1b73bfa31d36c15b5/transformed/activity-ktx-1.2.3/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /home/nato/.gradle/caches/transforms-3/b38068b7019bea5cee41f2c664c3487b/transformed/activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.activity:activity:1.2.4] /home/nato/.gradle/caches/transforms-3/b38068b7019bea5cee41f2c664c3487b/transformed/activity-1.2.4/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /home/nato/.gradle/caches/transforms-3/c26d442db09d0d08f0a5238a31b14aaa/transformed/appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.appcompat:appcompat-resources:1.4.1] /home/nato/.gradle/caches/transforms-3/c26d442db09d0d08f0a5238a31b14aaa/transformed/appcompat-resources-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /home/nato/.gradle/caches/transforms-3/f4eb0461f97686bee9c51896bf0ef074/transformed/emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2-views-helper:1.0.0] /home/nato/.gradle/caches/transforms-3/f4eb0461f97686bee9c51896bf0ef074/transformed/emoji2-views-helper-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/nato/.gradle/caches/transforms-3/9cf2aa9a12f60887ce314a502b4c97d6/transformed/emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.emoji2:emoji2:1.0.0] /home/nato/.gradle/caches/transforms-3/9cf2aa9a12f60887ce314a502b4c97d6/transformed/emoji2-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/nato/.gradle/caches/transforms-3/6d8d3f4c3fc45e4e213069df0a465897/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.drawerlayout:drawerlayout:1.1.1] /home/nato/.gradle/caches/transforms-3/6d8d3f4c3fc45e4e213069df0a465897/transformed/drawerlayout-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/nato/.gradle/caches/transforms-3/f8b08c5921bc817d4f76a796e2580acf/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.coordinatorlayout:coordinatorlayout:1.1.0] /home/nato/.gradle/caches/transforms-3/f8b08c5921bc817d4f76a796e2580acf/transformed/coordinatorlayout-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/nato/.gradle/caches/transforms-3/a0a92f0d5b3d431fc6c0b251d6804705/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.dynamicanimation:dynamicanimation:1.0.0] /home/nato/.gradle/caches/transforms-3/a0a92f0d5b3d431fc6c0b251d6804705/transformed/dynamicanimation-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/nato/.gradle/caches/transforms-3/819436423a2822097c55a5ac38231da2/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable-animated:1.1.0] /home/nato/.gradle/caches/transforms-3/819436423a2822097c55a5ac38231da2/transformed/vectordrawable-animated-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/nato/.gradle/caches/transforms-3/6a28cd330caff2e53e1e642b857fa805/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.vectordrawable:vectordrawable:1.1.0] /home/nato/.gradle/caches/transforms-3/6a28cd330caff2e53e1e642b857fa805/transformed/vectordrawable-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /home/nato/.gradle/caches/transforms-3/04d877165c32c5c19e8fd70e916bd0ca/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.slidingpanelayout:slidingpanelayout:1.2.0] /home/nato/.gradle/caches/transforms-3/04d877165c32c5c19e8fd70e916bd0ca/transformed/slidingpanelayout-1.2.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/nato/.gradle/caches/transforms-3/fa53f186f02498d1359cc0706b9c9ca7/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.recyclerview:recyclerview:1.1.0] /home/nato/.gradle/caches/transforms-3/fa53f186f02498d1359cc0706b9c9ca7/transformed/recyclerview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/nato/.gradle/caches/transforms-3/22a96163e48a9af14aeecda496ee28cf/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.viewpager:viewpager:1.0.0] /home/nato/.gradle/caches/transforms-3/22a96163e48a9af14aeecda496ee28cf/transformed/viewpager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.customview:customview:1.1.0] /home/nato/.gradle/caches/transforms-3/575010955cd06a2118a242e53bb9a703/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.customview:customview:1.1.0] /home/nato/.gradle/caches/transforms-3/575010955cd06a2118a242e53bb9a703/transformed/customview-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/nato/.gradle/caches/transforms-3/3da911e04a328fe13048bd5e2f69e7f7/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.legacy:legacy-support-core-utils:1.0.0] /home/nato/.gradle/caches/transforms-3/3da911e04a328fe13048bd5e2f69e7f7/transformed/legacy-support-core-utils-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.navigation:navigation-common:2.4.1] /home/nato/.gradle/caches/transforms-3/2b2153114313d91df6388083d57d2098/transformed/navigation-common-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.navigation:navigation-common:2.4.1] /home/nato/.gradle/caches/transforms-3/2b2153114313d91df6388083d57d2098/transformed/navigation-common-2.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core-ktx:1.2.0] /home/nato/.gradle/caches/transforms-3/59b9e602b2931bd110bc787fd6893ee0/transformed/core-ktx-1.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.core:core-ktx:1.2.0] /home/nato/.gradle/caches/transforms-3/59b9e602b2931bd110bc787fd6893ee0/transformed/core-ktx-1.2.0/AndroidManifest.xml:5:5-7:41
+MERGED from [androidx.transition:transition:1.4.1] /home/nato/.gradle/caches/transforms-3/cc28265336394abe1eed16515dc99c66/transformed/transition-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.transition:transition:1.4.1] /home/nato/.gradle/caches/transforms-3/cc28265336394abe1eed16515dc99c66/transformed/transition-1.4.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] /home/nato/.gradle/caches/transforms-3/38c88e48168843fdd3cfd637e646333c/transformed/window-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.window:window:1.0.0] /home/nato/.gradle/caches/transforms-3/38c88e48168843fdd3cfd637e646333c/transformed/window-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.loader:loader:1.0.0] /home/nato/.gradle/caches/transforms-3/6ef1b7ae5d7044c182a5a09a002b1c8f/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.loader:loader:1.0.0] /home/nato/.gradle/caches/transforms-3/6ef1b7ae5d7044c182a5a09a002b1c8f/transformed/loader-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.core:core:1.7.0] /home/nato/.gradle/caches/transforms-3/19993721b14e547f735b9fa1d0b1eaa2/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.core:core:1.7.0] /home/nato/.gradle/caches/transforms-3/19993721b14e547f735b9fa1d0b1eaa2/transformed/core-1.7.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/nato/.gradle/caches/transforms-3/479bfc522e1288c72f980d0199956bed/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cursoradapter:cursoradapter:1.0.0] /home/nato/.gradle/caches/transforms-3/479bfc522e1288c72f980d0199956bed/transformed/cursoradapter-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/nato/.gradle/caches/transforms-3/d0c36b56ee045d975d62935e55b6ab78/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-savedstate:2.3.1] /home/nato/.gradle/caches/transforms-3/d0c36b56ee045d975d62935e55b6ab78/transformed/lifecycle-viewmodel-savedstate-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /home/nato/.gradle/caches/transforms-3/5b7e13183d8994a3cd4e680943b09cb5/transformed/savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate-ktx:1.1.0] /home/nato/.gradle/caches/transforms-3/5b7e13183d8994a3cd4e680943b09cb5/transformed/savedstate-ktx-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/nato/.gradle/caches/transforms-3/ff5bb29851bee9e462bc577cda0460c7/transformed/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.savedstate:savedstate:1.1.0] /home/nato/.gradle/caches/transforms-3/ff5bb29851bee9e462bc577cda0460c7/transformed/savedstate-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /home/nato/.gradle/caches/transforms-3/455e4e6f6c2570627624e3b81f750cd8/transformed/lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel-ktx:2.3.1] /home/nato/.gradle/caches/transforms-3/455e4e6f6c2570627624e3b81f750cd8/transformed/lifecycle-viewmodel-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/nato/.gradle/caches/transforms-3/a871b9e8c411ce33d64773efd6088966/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-viewmodel:2.3.1] /home/nato/.gradle/caches/transforms-3/a871b9e8c411ce33d64773efd6088966/transformed/lifecycle-viewmodel-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.cardview:cardview:1.0.0] /home/nato/.gradle/caches/transforms-3/0e4b3ed69ba1d5ef69295186a3ec6b84/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.cardview:cardview:1.0.0] /home/nato/.gradle/caches/transforms-3/0e4b3ed69ba1d5ef69295186a3ec6b84/transformed/cardview-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/nato/.gradle/caches/transforms-3/660fb327dde20171876adbf1f31eb174/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.versionedparcelable:versionedparcelable:1.1.1] /home/nato/.gradle/caches/transforms-3/660fb327dde20171876adbf1f31eb174/transformed/versionedparcelable-1.1.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/nato/.gradle/caches/transforms-3/ab4adf534828c88ac92d3ae3d977accc/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/nato/.gradle/caches/transforms-3/ab4adf534828c88ac92d3ae3d977accc/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/nato/.gradle/caches/transforms-3/a8b99a316ef34d8edbf1d1f4be2f1ad8/transformed/startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/nato/.gradle/caches/transforms-3/a8b99a316ef34d8edbf1d1f4be2f1ad8/transformed/startup-runtime-1.0.0/AndroidManifest.xml:21:5-23:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/nato/.gradle/caches/transforms-3/4ffc9a8ad02c91f73376e476591128f2/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.tracing:tracing:1.0.0] /home/nato/.gradle/caches/transforms-3/4ffc9a8ad02c91f73376e476591128f2/transformed/tracing-1.0.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /home/nato/.gradle/caches/transforms-3/e8a652fb40d0f4c51a505c5b44cbbdc8/transformed/lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core-ktx:2.3.1] /home/nato/.gradle/caches/transforms-3/e8a652fb40d0f4c51a505c5b44cbbdc8/transformed/lifecycle-livedata-core-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/nato/.gradle/caches/transforms-3/a464403484bdac61ef3cf53dec336102/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata:2.0.0] /home/nato/.gradle/caches/transforms-3/a464403484bdac61ef3cf53dec336102/transformed/lifecycle-livedata-2.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/nato/.gradle/caches/transforms-3/fe7a914480ce42aea2fa390501691159/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-livedata-core:2.3.1] /home/nato/.gradle/caches/transforms-3/fe7a914480ce42aea2fa390501691159/transformed/lifecycle-livedata-core-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /home/nato/.gradle/caches/transforms-3/db31fbf950ebf197287052b75bdbdcea/transformed/lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime-ktx:2.3.1] /home/nato/.gradle/caches/transforms-3/db31fbf950ebf197287052b75bdbdcea/transformed/lifecycle-runtime-ktx-2.3.1/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /home/nato/.gradle/caches/transforms-3/6263b7f6c46bc9215157cb5b58cc5c0a/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.lifecycle:lifecycle-runtime:2.4.0] /home/nato/.gradle/caches/transforms-3/6263b7f6c46bc9215157cb5b58cc5c0a/transformed/lifecycle-runtime-2.4.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/nato/.gradle/caches/transforms-3/e0ceb94277256599d652d7b596f3a17a/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.arch.core:core-runtime:2.1.0] /home/nato/.gradle/caches/transforms-3/e0ceb94277256599d652d7b596f3a17a/transformed/core-runtime-2.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/nato/.gradle/caches/transforms-3/63a69ce68fa557e382b8a43f04a2feb0/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.interpolator:interpolator:1.0.0] /home/nato/.gradle/caches/transforms-3/63a69ce68fa557e382b8a43f04a2feb0/transformed/interpolator-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/nato/.gradle/caches/transforms-3/595962d6a0a0709ee60c9d883226ca12/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.documentfile:documentfile:1.0.0] /home/nato/.gradle/caches/transforms-3/595962d6a0a0709ee60c9d883226ca12/transformed/documentfile-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/nato/.gradle/caches/transforms-3/b647bbc2c3b0e3c8c570d50953c65e7e/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.localbroadcastmanager:localbroadcastmanager:1.0.0] /home/nato/.gradle/caches/transforms-3/b647bbc2c3b0e3c8c570d50953c65e7e/transformed/localbroadcastmanager-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/nato/.gradle/caches/transforms-3/a5a7311960bf5c1bff5fb80410424df2/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.print:print:1.0.0] /home/nato/.gradle/caches/transforms-3/a5a7311960bf5c1bff5fb80410424df2/transformed/print-1.0.0/AndroidManifest.xml:20:5-44
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/nato/.gradle/caches/transforms-3/5935097190010156f23c456f5b50117c/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+MERGED from [androidx.annotation:annotation-experimental:1.1.0] /home/nato/.gradle/caches/transforms-3/5935097190010156f23c456f5b50117c/transformed/annotation-experimental-1.1.0/AndroidManifest.xml:20:5-22:41
+INJECTED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml
+INJECTED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml
+	android:targetSdkVersion
+		INJECTED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml
+		ADDED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml
+		ADDED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml
+		INJECTED from /home/nato/AndroidStudioProjects/GPSTracking2/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from [com.google.android.gms:play-services-maps:18.0.2] /home/nato/.gradle/caches/transforms-3/b6a7dc8e5b0e4d0eb76b11827beb6de3/transformed/play-services-maps-18.0.2/AndroidManifest.xml:23:5-79
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] /home/nato/.gradle/caches/transforms-3/b6a7dc8e5b0e4d0eb76b11827beb6de3/transformed/play-services-maps-18.0.2/AndroidManifest.xml:23:22-76
+uses-feature#0x00020000
+ADDED from [com.google.android.gms:play-services-maps:18.0.2] /home/nato/.gradle/caches/transforms-3/b6a7dc8e5b0e4d0eb76b11827beb6de3/transformed/play-services-maps-18.0.2/AndroidManifest.xml:26:5-28:35
+	android:glEsVersion
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] /home/nato/.gradle/caches/transforms-3/b6a7dc8e5b0e4d0eb76b11827beb6de3/transformed/play-services-maps-18.0.2/AndroidManifest.xml:27:9-41
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] /home/nato/.gradle/caches/transforms-3/b6a7dc8e5b0e4d0eb76b11827beb6de3/transformed/play-services-maps-18.0.2/AndroidManifest.xml:28:9-32
+queries
+ADDED from [com.google.android.gms:play-services-maps:18.0.2] /home/nato/.gradle/caches/transforms-3/b6a7dc8e5b0e4d0eb76b11827beb6de3/transformed/play-services-maps-18.0.2/AndroidManifest.xml:30:5-34:15
+package#com.google.android.apps.maps
+ADDED from [com.google.android.gms:play-services-maps:18.0.2] /home/nato/.gradle/caches/transforms-3/b6a7dc8e5b0e4d0eb76b11827beb6de3/transformed/play-services-maps-18.0.2/AndroidManifest.xml:33:9-64
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] /home/nato/.gradle/caches/transforms-3/b6a7dc8e5b0e4d0eb76b11827beb6de3/transformed/play-services-maps-18.0.2/AndroidManifest.xml:33:18-61
+uses-library#org.apache.http.legacy
+ADDED from [com.google.android.gms:play-services-maps:18.0.2] /home/nato/.gradle/caches/transforms-3/b6a7dc8e5b0e4d0eb76b11827beb6de3/transformed/play-services-maps-18.0.2/AndroidManifest.xml:39:9-41:40
+	android:required
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] /home/nato/.gradle/caches/transforms-3/b6a7dc8e5b0e4d0eb76b11827beb6de3/transformed/play-services-maps-18.0.2/AndroidManifest.xml:41:13-37
+	android:name
+		ADDED from [com.google.android.gms:play-services-maps:18.0.2] /home/nato/.gradle/caches/transforms-3/b6a7dc8e5b0e4d0eb76b11827beb6de3/transformed/play-services-maps-18.0.2/AndroidManifest.xml:40:13-50
+activity#com.google.android.gms.common.api.GoogleApiActivity
+ADDED from [com.google.android.gms:play-services-base:18.0.1] /home/nato/.gradle/caches/transforms-3/7a0b649d5a4053476f37b10320633ffe/transformed/play-services-base-18.0.1/AndroidManifest.xml:20:9-22:45
+	android:exported
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /home/nato/.gradle/caches/transforms-3/7a0b649d5a4053476f37b10320633ffe/transformed/play-services-base-18.0.1/AndroidManifest.xml:22:19-43
+	android:theme
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /home/nato/.gradle/caches/transforms-3/7a0b649d5a4053476f37b10320633ffe/transformed/play-services-base-18.0.1/AndroidManifest.xml:21:19-78
+	android:name
+		ADDED from [com.google.android.gms:play-services-base:18.0.1] /home/nato/.gradle/caches/transforms-3/7a0b649d5a4053476f37b10320633ffe/transformed/play-services-base-18.0.1/AndroidManifest.xml:20:19-85
+provider#androidx.startup.InitializationProvider
+ADDED from [androidx.emoji2:emoji2:1.0.0] /home/nato/.gradle/caches/transforms-3/9cf2aa9a12f60887ce314a502b4c97d6/transformed/emoji2-1.0.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/nato/.gradle/caches/transforms-3/ab4adf534828c88ac92d3ae3d977accc/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/nato/.gradle/caches/transforms-3/ab4adf534828c88ac92d3ae3d977accc/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:26:9-34:20
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/nato/.gradle/caches/transforms-3/a8b99a316ef34d8edbf1d1f4be2f1ad8/transformed/startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+MERGED from [androidx.startup:startup-runtime:1.0.0] /home/nato/.gradle/caches/transforms-3/a8b99a316ef34d8edbf1d1f4be2f1ad8/transformed/startup-runtime-1.0.0/AndroidManifest.xml:26:9-30:34
+	tools:node
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/nato/.gradle/caches/transforms-3/9cf2aa9a12f60887ce314a502b4c97d6/transformed/emoji2-1.0.0/AndroidManifest.xml:30:13-31
+	android:authorities
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/nato/.gradle/caches/transforms-3/9cf2aa9a12f60887ce314a502b4c97d6/transformed/emoji2-1.0.0/AndroidManifest.xml:28:13-68
+	android:exported
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/nato/.gradle/caches/transforms-3/9cf2aa9a12f60887ce314a502b4c97d6/transformed/emoji2-1.0.0/AndroidManifest.xml:29:13-37
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/nato/.gradle/caches/transforms-3/9cf2aa9a12f60887ce314a502b4c97d6/transformed/emoji2-1.0.0/AndroidManifest.xml:27:13-67
+meta-data#androidx.emoji2.text.EmojiCompatInitializer
+ADDED from [androidx.emoji2:emoji2:1.0.0] /home/nato/.gradle/caches/transforms-3/9cf2aa9a12f60887ce314a502b4c97d6/transformed/emoji2-1.0.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/nato/.gradle/caches/transforms-3/9cf2aa9a12f60887ce314a502b4c97d6/transformed/emoji2-1.0.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.emoji2:emoji2:1.0.0] /home/nato/.gradle/caches/transforms-3/9cf2aa9a12f60887ce314a502b4c97d6/transformed/emoji2-1.0.0/AndroidManifest.xml:32:17-75
+uses-library#androidx.window.extensions
+ADDED from [androidx.window:window:1.0.0] /home/nato/.gradle/caches/transforms-3/38c88e48168843fdd3cfd637e646333c/transformed/window-1.0.0/AndroidManifest.xml:25:9-27:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] /home/nato/.gradle/caches/transforms-3/38c88e48168843fdd3cfd637e646333c/transformed/window-1.0.0/AndroidManifest.xml:27:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] /home/nato/.gradle/caches/transforms-3/38c88e48168843fdd3cfd637e646333c/transformed/window-1.0.0/AndroidManifest.xml:26:13-54
+uses-library#androidx.window.sidecar
+ADDED from [androidx.window:window:1.0.0] /home/nato/.gradle/caches/transforms-3/38c88e48168843fdd3cfd637e646333c/transformed/window-1.0.0/AndroidManifest.xml:28:9-30:40
+	android:required
+		ADDED from [androidx.window:window:1.0.0] /home/nato/.gradle/caches/transforms-3/38c88e48168843fdd3cfd637e646333c/transformed/window-1.0.0/AndroidManifest.xml:30:13-37
+	android:name
+		ADDED from [androidx.window:window:1.0.0] /home/nato/.gradle/caches/transforms-3/38c88e48168843fdd3cfd637e646333c/transformed/window-1.0.0/AndroidManifest.xml:29:13-51
+meta-data#androidx.lifecycle.ProcessLifecycleInitializer
+ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/nato/.gradle/caches/transforms-3/ab4adf534828c88ac92d3ae3d977accc/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:31:13-33:52
+	android:value
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/nato/.gradle/caches/transforms-3/ab4adf534828c88ac92d3ae3d977accc/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:33:17-49
+	android:name
+		ADDED from [androidx.lifecycle:lifecycle-process:2.4.0] /home/nato/.gradle/caches/transforms-3/ab4adf534828c88ac92d3ae3d977accc/transformed/lifecycle-process-2.4.0/AndroidManifest.xml:32:17-78
